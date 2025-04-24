@@ -1,3 +1,0 @@
-/home/icecreamsarkaz/CLionProjects/FluidEngine/cmake-build-debug/CMakeFiles/FluidEngine.dir
-/home/icecreamsarkaz/CLionProjects/FluidEngine/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/icecreamsarkaz/CLionProjects/FluidEngine/cmake-build-debug/CMakeFiles/rebuild_cache.dir

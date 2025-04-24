@@ -1,6 +1,0 @@
-# ninja log v5
-1	285	1745513147063991226	CMakeFiles/FluidEngine.dir/source/hyh_window.cpp.o	bf9345f0471f1cbd
-0	73	1745513241491789530	build.ninja	b92a315b0d326515
-1	192	1745513191904853866	CMakeFiles/FluidEngine.dir/source/first_app.cpp.o	f517df8f9b3e8c5a
-1	297	1745513147075990897	CMakeFiles/FluidEngine.dir/main.cpp.o	39454b96917d944
-192	259	1745513191969852343	FluidEngine	3e7182ce5ff1d696
